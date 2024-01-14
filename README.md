@@ -94,7 +94,7 @@ V GPOS jsou tasky plánovány tak, aby každá získala svůj podíl na procesor
 
 Jak ale docílíme toho aby nám běželo více tasků na jednom procesoru? Na vícejádrovém procesoru je to fyzicky možné, problém ale nastavá na jednodárovém. Běžný jednojádrový procesor může totiž provádět pouze jednu úlohu najednou. Pomocí rychlého přepínání mezi úlohami však může vytvořit **dojem**, že každá úloha běží souběžně. A tomu říkáme **iluze multitaskingu**.
 
-![](rtos-multitasking.png)
+![](/images/rtos-multitasking.png)
 
 ### Protekce sdílených resourců
 
